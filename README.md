@@ -38,11 +38,13 @@
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn new design techniques and tools to enhance my UI/UX design skills.
 
+<br>
 ## 🚀 Future Endeavors:
 
 - 🧠 Study the fundamentals of **Artificial Intelligence** and its various subfields.
 - 🤖 Build a project that demonstrates my knowledge of **AI** and **machine learning**.
 
+<br>
 ## 📈 Achievements
 
 - 🎉 I have successfully completed over 5 projects on Frontend Mentor and shared my code with others.
