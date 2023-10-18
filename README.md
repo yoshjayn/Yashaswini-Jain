@@ -1,7 +1,11 @@
 
 
 <p align="center">
-👋 Hey there! I'm a persuing Masters in    Computer Application with a creative passion for web programming. 🕸️ My goals are to Enhance Online Security, Support Nonprofits, Promote Digital Inclusion, Reduce Environmental Impact by developing eco-friendly web solutions to lower energy consumption and Crafting scalable and user-friendly web apps that captivate users at first click. 🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.
+👋 Hey there! I'm a persuing Masters in    Computer Application with a creative passion for web programming. 
+    <br>
+🕸️ My goals are to Enhance Online Security, Support Nonprofits, Promote Digital Inclusion, Reduce Environmental Impact by developing eco-friendly web solutions to lower energy consumption and Crafting scalable and user-friendly web apps that captivate users at first click.
+    <br>
+🚀 I'm always on the hunt, exploring new tech and frameworks to innovate and solve challenges.
 </p>
 
 ##
