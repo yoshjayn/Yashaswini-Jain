@@ -18,7 +18,7 @@
 
 - 🔭 I am presently immersing myself in the world of **software development** , steadily crafting the foundations of my coding expertise .
 
-- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **Python**.
+- 🌱 I'm diving deep into competitive coding platforms to sharpen my algorithm analysis skills, primarily using **JavaScript**.
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/yoshjayn)!.
 
